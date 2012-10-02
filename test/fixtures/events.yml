@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  cancel_reason: MyString
+  city: MyString
+  created_at: 2012-09-28 20:37:51
+  details: MyString
+  email: MyString
+  end_datetime: 2012-09-28 20:37:51
+  event_type: MyString
+  featured: MyString
+  gmap_lattitude: 1.5
+  gmap_logitude: 1.5
+  location: MyString
+  mobile: MyString
+  name: MyString
+  reject_reason: MyString
+  start_datetime: 2012-09-28 20:37:51
+  status: MyString
+  themes: MyString
+  updated_at: 2012-09-28 20:37:51
+  user: MyString
+  website: MyString
+
+two:
+  cancel_reason: MyString
+  city: MyString
+  created_at: 2012-09-28 20:37:51
+  details: MyString
+  email: MyString
+  end_datetime: 2012-09-28 20:37:51
+  event_type: MyString
+  featured: MyString
+  gmap_lattitude: 1.5
+  gmap_logitude: 1.5
+  location: MyString
+  mobile: MyString
+  name: MyString
+  reject_reason: MyString
+  start_datetime: 2012-09-28 20:37:51
+  status: MyString
+  themes: MyString
+  updated_at: 2012-09-28 20:37:51
+  user: MyString
+  website: MyString
